@@ -16,3 +16,19 @@ span {
   color: Aquamarine;
   font-size: 16px;
 }
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+#title {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.copyright {
+  text-align: right;
+  font-size: 15px;
+}
